@@ -1,0 +1,11 @@
+[package]
+template = true
+keywords = ["Type/Webhook", "Category/Integration"]
+org = "choreo"
+displayName = "Salesforce Listener"
+name = "salseforce_listener"
+icon = "icon.png"
+description = "Listning to Salseforce for Capture Changes"
+version = "1.0.0"
+[build-options]
+observabilityIncluded = true

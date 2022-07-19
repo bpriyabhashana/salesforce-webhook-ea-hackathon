@@ -1,0 +1,7 @@
+username = ""
+password = ""
+
+# Webhook
+WEBHOOK_URL = ""
+WEBHOOK_USER_NAME = ""
+WEBHOOK_PASSWORD = ""
